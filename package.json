@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ferpinan/webpack-ftp-upload-plugin.git"
+    "url": "git+https://github.com/ferpinan/webpack-sftp-upload-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -18,9 +18,9 @@
   "author": "Andoni Fernandez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ferpinan/webpack-ftp-upload-plugin/issues"
+    "url": "https://github.com/ferpinan/webpack-sftp-upload-plugin/issues"
   },
-  "homepage": "https://github.com/ferpinan/webpack-ftp-upload-plugin#readme",
+  "homepage": "https://github.com/ferpinan/webpack-sftp-upload-plugin#readme",
   "dependencies": {
     "scp2": "^0.5.0"
   }
