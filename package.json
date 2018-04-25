@@ -1,0 +1,27 @@
+{
+  "name": "webpack-sftp-upload-plugin",
+  "version": "1.0.2",
+  "description": "A webpack ftp upload plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferpinan/webpack-ftp-upload-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "ftp"
+  ],
+  "author": "Andoni Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferpinan/webpack-ftp-upload-plugin/issues"
+  },
+  "homepage": "https://github.com/ferpinan/webpack-ftp-upload-plugin#readme",
+  "dependencies": {
+    "scp2": "^0.5.0"
+  }
+}
